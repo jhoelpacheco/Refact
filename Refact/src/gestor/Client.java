@@ -38,10 +38,6 @@ public class Client {
         return lloguers.contains(lloguer);
     }
 
-    /*public String informe() {
-        // de moment en blanc
-        return null;
-    }*/
     public String informe() {
         double total = 0;
         int bonificacions = 0;

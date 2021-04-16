@@ -28,7 +28,6 @@ public class Main {
 		cliente.afegeix(lloguer2);
 		cliente.afegeix(lloguer3);
 		
-		
 		System.out.print(GestorLloguersLite(cliente));
 		
 	}

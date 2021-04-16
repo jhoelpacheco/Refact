@@ -13,7 +13,6 @@ public class Lloguer {
 		this.dies = dies;
 		this.vehicle = vehicleBasic;
 	}
-
 	public Date getData() {
 		return data;
 	}
